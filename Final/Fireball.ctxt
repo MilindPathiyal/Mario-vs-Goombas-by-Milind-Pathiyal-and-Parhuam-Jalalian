@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=x\ y\ direction
+comment0.target=Fireball(int,\ int,\ char)
+comment1.params=
+comment1.target=void\ update()
+comment2.params=g2d
+comment2.target=void\ draw(java.awt.Graphics2D)
+comment3.params=
+comment3.target=void\ move()
+comment4.params=
+comment4.target=java.awt.Rectangle\ gethitBox()
+comment5.params=
+comment5.target=char\ getDirection()
+numComments=6

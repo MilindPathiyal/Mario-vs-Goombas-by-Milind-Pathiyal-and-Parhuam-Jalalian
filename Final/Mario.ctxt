@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Mario(int,\ int)
+comment1.params=
+comment1.target=void\ update()
+comment10.params=
+comment10.target=java.awt.Rectangle\ gethitBox()
+comment11.params=
+comment11.target=char\ getDirection()
+comment2.params=enemy
+comment2.target=boolean\ boom(Gumba)
+comment3.params=
+comment3.target=java.util.ArrayList\ getFireballs()
+comment4.params=dead
+comment4.target=void\ setDead(boolean)
+comment5.params=
+comment5.target=boolean\ isDead()
+comment6.params=enemy
+comment6.target=void\ detectCollide(Gumba)
+comment7.params=g2d
+comment7.target=void\ draw(java.awt.Graphics2D)
+comment8.params=e
+comment8.target=void\ keyPressed(java.awt.event.KeyEvent)
+comment9.params=e
+comment9.target=void\ keyReleased(java.awt.event.KeyEvent)
+numComments=12
